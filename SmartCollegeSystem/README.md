@@ -50,7 +50,7 @@ The application implements a `ThemeManager` class to decouple design from logic,
 ## 👨‍💻 For Developers (Local Setup)
 ```bash
 # Clone the repository
-git clone [https://github.com/maazali04/SmartCollegeSystem.git](https://github.com/maazali04/SmartCollegeSystem.git)
+git clone [https://github.com/maazali04/Projects/SmartCollegeSystem.git](https://github.com/maazali04/Projects/SmartCollegeSystem.git)
 
 # Install dependencies
 pip install -r requirements.txt
